@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#01513e</color>
+    <color name="colorPrimaryDark">#01513e</color> <!--cor acima do layout -->
+    <color name="colorAccent">#FF4081</color>
+    <color name="coloGreen">#007056</color>
+    <color name="coloFloatButton">#d1b800</color>
+</resources>
