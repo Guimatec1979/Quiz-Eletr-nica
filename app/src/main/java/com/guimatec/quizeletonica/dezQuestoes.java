@@ -55,7 +55,7 @@ public class dezQuestoes extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_dez_questoes);
 
-        String minhaUrl="http://www.json-generator.com/api/json/get/bUKdPiZsXS?indent=2";
+        String minhaUrl="http://www.json-generator.com/api/json/get/cqKxaiNuNu?indent=2";
 
 
         
